@@ -14,3 +14,4 @@ Instructions:
 
 Let's play!
 
+![Dice game Screenshot](https://user-images.githubusercontent.com/106494326/199877033-2629747b-f1aa-4725-bd3d-0c0c10fb3dc6.png)
