@@ -2,6 +2,7 @@
 Simple dice game with two players. 
 
 Instructions:
+
 1.Click new game
 
 2.Then roll dice. The game will randomly generate a dice roll until the dice rolls the number one.
